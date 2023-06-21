@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
+
 struct MYSwiftUiApp: App {
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TextBootcamp()
         }
     }
 }
